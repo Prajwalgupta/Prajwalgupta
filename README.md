@@ -7,7 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/prajwalgupta456" target="blank"><img src="https://img.shields.io/twitter/follow/prajwalgupta456?logo=twitter&style=for-the-badge" alt="prajwalgupta456" /></a> </p>
 
+- 🌱 I’m currently learning **Android development**
+
+- 💬 Ask me about **Competitive coding**
+
 - 📫 How to reach me **prajwalgupta456@gmail.com**
+
+- ⚡ Fun fact **I am Simple being..**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
