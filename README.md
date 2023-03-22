@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalgupta&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalgupta" /> </p>
 
-<p align="left"> <a href="https://twitter.com/prajwalgupta456" target="blank"><img src="https://img.shields.io/twitter/follow/prajwalgupta456?logo=twitter&style=for-the-badge" alt="prajwalgupta456" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_0xStranger" target="blank"><img src="https://img.shields.io/twitter/follow/prajwalgupta456?logo=twitter&style=for-the-badge" alt="prajwalgupta456" /></a> </p>
 
 - 🌱 I’m currently learning **Blockchain**
 
